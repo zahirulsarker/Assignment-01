@@ -22,3 +22,26 @@ h1{
   color: white;
   text-decoration: none;
 }
+/* Main starts here? */
+main{
+  margin-top: 55px;
+ 
+}
+.development{
+  background-color: rgb(245, 244, 238);
+  text-align: center;
+  width: 1280px;
+  padding-top: 35px;
+}
+.hero{
+  display: flex;
+  gap: 200px;
+  justify-content: center;
+}
+h3{
+  font-size: 25px;
+  font-weight: 600px;
+}
+.community{
+  text-align: left;
+}
