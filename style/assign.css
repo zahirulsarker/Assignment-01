@@ -45,3 +45,21 @@ h3{
 .community{
   text-align: left;
 }
+
+
+.hero2{
+  text-align: center;
+}
+.inspiration{
+  text-align: center;
+  font-size: 34px;
+}
+.ins-des{
+  text-align: center;
+}
+.video{
+margin-left: 255px;
+justify-content: center;
+border-radius: 5px;
+}
+iframe{border-radius: 11px;}
