@@ -1,0 +1,24 @@
+
+.head{
+  background-image: url("/B10A1-Challenge-Begins/assets/Hero-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.header-content{
+  text-align: center;
+}
+
+h1{
+  font-weight: 800px;
+  font-size: 40px
+  color: black;
+}
+.contact{
+  background-color: black;
+ padding:10px 20px ;
+}
+.contact-with{
+  color: white;
+  text-decoration: none;
+}
