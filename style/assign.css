@@ -3,8 +3,9 @@
 html{
   scroll-behavior: smooth;
 }
+
 #banner{
-  background-image: url("B10A1-Challenge-Begins/assets/Hero-bg.png");
+ background-image: url('/B10A1-Challenge-Begins/assets/Hero-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -124,7 +125,7 @@ iframe{border-radius: 11px;}
 }
 /* footer starts here */
 #support{
-  background-image: url("B10A1-Challenge-Begins/assets/handshake.jpg");
+  background-image: url('/B10A1-Challenge-Begins/assets/handshake.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
