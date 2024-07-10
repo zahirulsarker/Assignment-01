@@ -147,3 +147,10 @@ input{
 .feedback{
   text-decoration: none;
 }
+.sesh{
+  display: flex;
+  margin-left: 155px;
+}
+.media{
+  justify-content: end;
+}
