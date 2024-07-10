@@ -1,4 +1,8 @@
 
+
+html{
+  scroll-behavior: smooth;
+}
 .head{
   background-image: url("/B10A1-Challenge-Begins/assets/Hero-bg.png");
   background-repeat: no-repeat;
@@ -63,3 +67,55 @@ justify-content: center;
 border-radius: 5px;
 }
 iframe{border-radius: 11px;}
+
+/* Trgets started here */
+.targets{
+  display: flex;
+  gap: 22px;
+  justify-content: stretch;
+  margin-left: 235px;
+  
+}
+
+.target-content{
+  text-align: center;
+ 
+}
+.target1{
+  background-color: rgb(235, 230, 224);
+  width: 260px;
+  height: 260px;
+  border-radius: 15px;
+ 
+}
+.target2{
+  background-color: rgb(226, 224, 235);
+  width: 260px;
+  height: 260px;
+  border-radius: 15px;
+}
+.target3{
+  background-color: rgb(190, 189, 187);
+  width: 260px;
+  height: 260px;
+  border-radius: 15px;
+}
+.ht-img, .ht-cap{
+  margin-top: 22px;
+  margin-left: 22px;
+}
+/* .ht-cap{
+  margin-top: 22px;
+  margin-left: 22px; */
+}
+.ht-des{
+  margin-top: 16px;
+  margin-left: 22px;
+  padding-left: 22px;
+}
+
+.ht-btn{
+  margin-top: 10px;
+  margin-left: 22px;
+  border: none;
+}
