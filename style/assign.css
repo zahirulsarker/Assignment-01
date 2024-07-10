@@ -3,7 +3,7 @@
 html{
   scroll-behavior: smooth;
 }
-.head{
+#head{
   background-image: url("/B10A1-Challenge-Begins/assets/Hero-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -36,6 +36,8 @@ main{
   text-align: center;
   width: 1280px;
   padding-top: 35px;
+  margin-left: 115px;
+  margin-right: 115px;
 }
 .hero{
   display: flex;
@@ -53,10 +55,13 @@ h3{
 
 .hero2{
   text-align: center;
+  margin: left 115px; ;
+  background-color: rgb(235, 228, 220);
 }
 .inspiration{
   text-align: center;
   font-size: 34px;
+ 
 }
 .ins-des{
   text-align: center;
@@ -104,9 +109,7 @@ iframe{border-radius: 11px;}
   margin-top: 22px;
   margin-left: 22px;
 }
-/* .ht-cap{
-  margin-top: 22px;
-  margin-left: 22px; */
+
 }
 .ht-des{
   margin-top: 16px;
@@ -118,4 +121,29 @@ iframe{border-radius: 11px;}
   margin-top: 10px;
   margin-left: 22px;
   border: none;
+}
+/* footer starts here */
+#footer{
+  background-image: url("/B10A1-Challenge-Begins/assets/handshake.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+  width:1200px ;
+  margin-left: 115px;
+  border-radius: 15px;
+}
+.footer-content{
+  margin-top: 45px;
+  text-align: center;
+  padding-top: 45px;
+}
+input{
+  padding: 10px 80px 10px 10px;
+}
+.ft-btn{
+  padding: 10px;
+}
+.feedback{
+  text-decoration: none;
 }
