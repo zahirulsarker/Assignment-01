@@ -123,7 +123,7 @@ iframe{border-radius: 11px;}
   border: none;
 }
 /* footer starts here */
-#footer{
+#support{
   background-image: url("/B10A1-Challenge-Begins/assets/handshake.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -147,11 +147,19 @@ input{
 .feedback{
   text-decoration: none;
 }
-.sesh{
+.end{
   display: flex;
+  justify-content: space-between;
   margin-left: 155px;
+  margin-top: 70px; ;
 }
 .media{
   justify-content: end;
+}
+.commitment{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+  font-size: 22px;
+  color:black;
 }
 /* the end */
